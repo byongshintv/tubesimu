@@ -115,6 +115,3 @@ TubeSimu는 2019년 12월에 섭종 예정인 ios 리듬게임 beattube를 웹�
 * [비트튜브 공식 홈페이지](https://beattube.net/ "비트튜브 공식 홈페이지")
 * [비트튜브 서비스 종료문](https://twitter.com/himajin314159/status/1182264020012654592 "비트튜브 서비스 종료문")
 * [개발용 레포지터리 (private)](https://github.com/byongshintv/tubesimu.develop)
-
-# **7. 문의 및 건의**
-* [rnaos0530@gmail.com](rnaos0530@gmail.com "이메일")
